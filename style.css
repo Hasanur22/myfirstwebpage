@@ -1,0 +1,18 @@
+/*selector{
+	property:value;
+}*/
+body {
+	background-color: lightblue;
+	background-size: 1200px 800px;
+	background-repeat:cover; 
+}
+
+h1 {
+	color:purple; text-align: center;
+	border: 20px, dashed, blue;
+}
+h3 {color:green;}
+
+.group{display: inline-block;} 
+.email{margin-left: 34px;}
+.left{margin-left: 11px;}
